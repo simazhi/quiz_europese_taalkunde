@@ -1,0 +1,889 @@
+{
+    "600 jaar KU Leuven": [
+        {
+            "description": "Dit jaar mag KU Leuven 600 kaarsjes uitblazen. Er valt heel wat te vertellen over deze geschiedenis, maar de echte OGs herinneren zich wellicht het Collegium Trilingue, waar de drie Bijbelse talen onderwezen werden.",
+            "question": "Welke talen kon je studeren aan het Collegium Trilingue?",
+            "answer": "Latijn, (Oud)grieks en Hebreeuws",
+            "images": [
+                "assets/collegium.jpeg"
+            ]
+        },
+        {
+            "description": "Er zijn natuurlijk nog meer talen op deze wereld.",
+            "question": "Zet in de juiste volgorde: Luwen \\- Lovaina \\- Lovanio \\- Ruuban. De talen zijn: Japans, Chinees, Spaans, Italiaans",
+            "answer": "Chinees (Luwen) → Lovaina (Spaans) → Lovanio (Italiaans) → Ruuban (Japans)",
+            "images": [
+                "assets/exotic-world.jpg"
+            ]
+        },
+        {
+            "description": "Wie Letteren gestudeerd heeft aan KU Leuven is waarschijnlijk gehecht geraakt aan de betonnen gigant aan de Blijde Inkomststraat: het Erasmushuis. Dit brutalistische gebouw viert dit jaar zijn 50ste verjaardag, maar de Erasmussite heeft ook een rijke geschiedenis. Zo stond er vroeger een kerk, wat architect Marc Dessauvage geïnspireerd moet hebben.",
+            "question": "Welke vorm heeft het Erasmushuis als je het langs boven zou bekijken?",
+            "answer": "Een kruis",
+            "images": [
+                "assets/erasmushuis.jpg"
+            ],
+            "images_revision": [
+                "assets/erasmushuis-kruis.jpg"
+            ]
+        },
+        {
+            "description": "Beyonce. Zendaya. Natalia. Beroemde mensen hebben geen achternaam nodig. Voor de iets oudere mensen, zoals Vesalius, kennen we vooral de achternaam.",
+            "question": "Wat was de voornaam van Vesalius?",
+            "answer": "Andreas",
+            "images": [
+                "assets/vesalius.jpg"
+            ]
+        },
+        {
+            "description": "In de Wachtendonckse psalmen vinden we een lang stuk Oudnederlands. Vrij vertaald klinkt het als volgt: kom en zie de daden van God, geducht in zijn doen jegens de mensenkinderen. Jammer genoeg is dit manuscript gestolen door een bekende, maar desondanks vuile dief. De beste man heeft een aula die naar hem vernoemd is in het Erasmushuis, en hij heeft ook een standbeeld tegenover McDonalds.",
+            "question": "Welke schurk stal de Wachtendonckse psalmen?",
+            "answer": "Justus Lipsius",
+            "images": [
+                "assets/psalmen.jpg"
+            ],
+            "images_revision": [
+                "assets/lipsius.jpg"
+            ]
+        },
+        {
+            "description": "Van Oudnederlands gaan we naar nieuw Nederlands, en het Frans. De Franstaligen werden al even geleden uit Leuven verdreven naar hun eigen Louvain-la-neuve. Maar natuurlijk is niets beter dan het origineel.",
+            "question": "Welk jaar zette de splitsing van de KU Leuven in gang?",
+            "answer": "1968",
+            "images": [
+                "assets/leuven-vlaams.jpg"
+            ]
+        },
+        {
+            "description": "Wie zich vandaag gaat inschrijven aan de KU Leuven kan terecht in de fraaie universiteitshallen. Vroeger werd er op deze plek echter handel gedreven.",
+            "question": "Wat werd er vroeger verhandeld in de universiteitshallen?",
+            "answer": "Lakens",
+            "images": [
+                "assets/universiteitshallen.jpg"
+            ],
+            "images_revision": [
+                "assets/lakenhal-vroeger.jpg"
+            ]
+        },
+        {
+            "description": "Van de universiteitshal gaan we naar het Ladeuzeplein. Voor de festiviteiten van 600 jaar KU Leuven vond daar in het weekend van 15 en 16 februari een groot spektakel plaats om het feestjaar in te luiden.",
+            "question": "Welk spektakel op het Ladeuzeplein was het startschot van 600 jaar KU Leuven?",
+            "answer": "Lichtshow",
+            "images": [
+                "assets/ladeuze.jpg"
+            ],
+            "images_revision": [
+                "assets/ladeuze-show.jpg"
+            ]
+        },
+        {
+            "description": "Wie KU Leuven zegt, zegt ook Veto. Dit onafhankelijk studentenblad houdt al 50 jaar de vinger aan de pols bij het reilen en zeilen op de universiteit. Hierbij een welverdiende shoutout naar Veto. En nu de vraag\\!",
+            "question": "Veto heeft een vaste rubriek voor opinieartikelen. Hoe heet die rubriek?",
+            "answer": "Splinter",
+            "images": [
+                "assets/veto.png"
+            ],
+            "images_revision": [
+                "assets/splinter.png"
+            ]
+        },
+        {
+            "description": "Ontdek jezelf, begin bij de wereld. Met die leuze pakte Leuven jarenlang uit. (Tip voor vraag: het is ook een rijschool in het Leuvense).",
+            "question": "Naar wie is de projectie genoemd die op de meeste wereldkaarten voorkomt?",
+            "answer": "Mercator",
+            "images": [
+                "assets/mercatormap.webp"
+            ],
+            "images_revision": [
+                "assets/mercator.webp"
+            ]
+        }
+    ],
+    "Onomasiologie": [
+        {
+            "description": "In deze ronde vertrekken we vanuit de signifié, en zoeken de signifiant. Voor wie ATW I al een tijdje geleden is: we zoeken namen in deze ronde\\! We gaan meteen van start. Een wigwam is een koepelvormige indianentent. Maar er zijn ook tenten met een spits, gebruikt door de prairie-indianen uit Noord-Amerika.",
+            "question": "Hoe heet zo’n spitsvormige tent?",
+            "answer": "tipi",
+            "images": [
+                "assets/tipi.jpg"
+            ]
+        },
+        {
+            "description": "Amai, dat is hier nogal ne quiz begot. Ah nee, sorry, EGOT!",
+            "question": "Wat wordt er bedoeld met een EGOT?",
+            "answer": "Emmy, Grammy, Oscar, Tony",
+            "images": [
+                "assets/escargot.jpg"
+            ],
+            "images_revision": [
+              "assets/egot.jpg"
+            ]
+        },
+        {
+            "description": "Binnenkort krijgt Stephen Fry een eredoctoraat aan onze faculteit. Stephen Fry heeft verschillende vertellingen van Griekse mythen, dus wij gaan ook de mythologische toer op.",
+            "question": "Wat is de naam van de reuzen die door de Griekse godin Gaia werden voortgebracht na het opnemen van het bloed van haar metgezel Ouranos?",
+            "answer": "Giganten",
+            "explanation": "(NIET titanen)",
+            "images": [
+                "assets/gigant.png"
+            ]
+        },
+        {
+            "description": "Van mythologische figuren gaan we naar mensen van vlees en bloed, maar die kunnen ook helden zijn.",
+            "question": "Hoe heet ons nationaal basketbalteam bij de vrouwen?",
+            "answer": "Belgian cats",
+            "images": [
+                "assets/cats.jpg"
+            ]
+        },
+        {
+            "description": "Andere figuren vinden we dan weer in Disneyfilms. Zoals deze film, die in Europa een andere naam kreeg dan in Amerika.",
+            "question": "Welke Disneyfilm werd uitgebracht onder twee namen? Geef ze allebei\\!",
+            "answer": "Moana en Vaiana",
+            "images": [
+                "assets/moana-neutral.jpg"
+            ],
+            "images_revision": [
+                "assets/moana.jpg",
+                "assets/vaiana.jpg"
+            ],
+            "explanation": "Leuk weetje: In Italië kreeg de film de naam Oceania omdat de naam Moana geassocieerd wordt met de bekende Italiaanse pornoactrice Moana Pozzi."
+        },
+        {
+            "description": "Tegenwoordig is er 5G, na 4G, 3G en 2G. 2G is van Europese makelij, en is beter bekend onder een drieletterig acroniem, GSM.",
+            "question": "Waarvoor staat GSM?",
+            "answer": "Global System for Mobile Communications",
+            "images": [
+                "assets/aluhoedje.jpg"
+            ]
+        },
+        {
+            "description": "Niets leuker dan dialectkaarten. Op die dialectkaarten vinden we isoglossen terug, grenzen die een systematisch taalverschil tussen twee gebieden aanduiden. Op deze kaart zien we een bijzondere grens in Nederland.",
+            "question": "Wat wordt er aangeduid met deze isoglosse?",
+            "answer": "De grens tussen de plaats waar mensen “friet” en “patat” zeggen",
+            "images": [
+                "assets/patat-friet-blank.png"
+            ],
+            "images_revision": [
+                "assets/patat-friet.png"
+            ]
+        },
+        {
+            "description": "Wat is er lekker op friet? Natriumchloride.",
+            "question": "Onder welke naam kennen we natriumchloride beter?",
+            "answer": "(Keuken)zout",
+            "images": [
+                "assets/friet.jpg"
+            ]
+        },
+        {
+            "description": "Sommige mensen worden geboren met talent. Anderen met een rijke vader.",
+            "question": "Hoe noemen we figuren als Viktor Verhulst, die hun kansen alleen te danken hebben aan hun afkomst, en niet aan talent?",
+            "answer": "Nepobaby’s",
+            "images": [
+                "assets/viktor-verhulst.jpg"
+            ]
+        },
+        {
+            "description": "Over mannen met talent gesproken. Dit gemaskerde personage strijdt al meer dan honderd jaar tegen onrecht en corruptie.",
+            "question": "Welke Spaanse vos wordt hier afgebeeld?",
+            "answer": "Zorro",
+            "images": [
+                "assets/zorro.jpg"
+            ]
+        }
+    ],
+    "Er is geen bal op de TV": [
+      {
+        "description": "Aan KU Leuven is plagiaat uit den boze. Deze ronde is dan ook geen plagiaat, maar louter sterk geïnspireerd door beproefde concepten. We vallen met de deur in huis met Open Deur, zoals in De Slimste Mens.",
+        "question": "Wat is het antwoord op de vraag van Anthe?",
+        "answer": "Bazel",
+        "video": "assets/anthe.mp4"
+      },
+      {
+        "description": "Het heeft even geduurd, maar we hebben aan onze faculteit drie wijzen gevonden. Slechts één van hen spreekt de waarheid.",
+        "question": "Welke wijze spreekt de waarheid?",
+        "choices": [
+            "Kurt",
+            "Lieve",
+            "Thomas"
+        ],
+        "answer": "Thomas",
+        "video": "assets/driewijzen.mp4"
+      },
+      {
+        "description": "Voor deze vraag spelen we Hoger Lager. Het concept is doodsimpel. We trekken een kaart, en nadat jullie antwoorden zijn opgehaald, trekken we nog een kaart.",
+        "question": "Is de volgende kaart hoger of lager?",
+        "images": [ "assets/hoger-lager.jpg" ],
+        "audio": "assets/hoger-lager.mp3",
+        "audio_revision": "",
+        "answer": "hoger, of lager!"
+      },
+      {
+        "description": "Tegenwoordig kun je alles op internet bestellen, maar in de tijd van Het Rad Van Fortuin kon je nog artisanaal een klinker kopen.",
+        "question": "Welk woord wordt hier gezocht? P_MP_LM__S",
+        "answer": "POMPELMOES / PIMPELMEES",
+        "video": "assets/rad-fortuin-q.mp4",
+        "video_revision": "assets/rad-fortuin-a.mp4"
+      },
+      {
+        "description": "Allez! Allez! Ben Crabbé wordt al wel eens nerveus als hij het achtletterwoord al heeft geraden, maar de kandidaat nog niet. Gelukkig is Ben er vandaag niet om jullie op de zenuwen te werken.",
+        "question": "Welk achtletterwoord zoekt Ben hier?",
+        "answer": "BARBIERS",
+        "images": [ "assets/blokken.jpg" ],
+        "images_revision": [ "assets/blokken-antwoord.jpg" ]
+      },
+      {
+        "description": "Tien Voor Taal is ondertussen al twintig jaar van het Vlaamse televisiescherm verdwenen, maar wij zijn benieuwd of jullie nog tien voor taal zullen halen. We spelen homoniemen.",
+        "question": "Naar welk woord verwijzen deze drie betekenissen?",
+        "answer": "WAAR",
+        "images": [ "assets/tien-voor-taal-q.png" ],
+        "images_revision": [ "assets/tien-voor-taal-a.jpg" ]
+      },
+      {
+        "description": "De Kampenhoutse trots Sofie Lenaerts presenteert al sinds 2019 het verkeersveiligheidsprogramma Kijk Uit! Haar Standaardtaaluitspraak is niet om over naar huis te schrijven, maar haar verkeerskennis is niet te overtreffen. Wat weten jullie nog van het theoretische rijbewijs?",
+        "question": "De foto is genomen vanuit de auto waarmee jij rijdt. Mag je op dit kruispunt de fietser links inhalen?",
+        "answer": "Ja",
+        "explanation": "Het gaat hier om een kruispunt met voorrang van rechts. Allereerst hebben we voorrang op de auto links. We mogen de fietser inhalen. Waarom? Op een kruispunt waar de voorrang van rechts geldt, is het verboden om een gespan, een voertuig met meer dan 2 wielen, of een 2-wielig motorvoertuig links in te halen. Het gaat hier om een rijwiel met twee wielen, dus die mag je hier links inhalen. Wie deze vraag fout had, mag zijn rijbewijs bij het buitengaan straks inleveren bij de jury.",
+        "images": [ "assets/rijbewijs.jpg" ]
+      },
+      {
+        "description": "In Ik Heb Het U Letterlijk juist gezegd hoeven de kandidaten in principe niets te weten. Alle antwoorden kwamen al voor in de quiz zelf. Omdat wij smeerlappen zijn, hebben we jullie natuurlijk ook zoiets gelapt.",
+        "question": "Onder welke naam werd Moana/Vaiana uitgebracht in Italië, omdat Moana een Italiaanse porno-actrice is?",
+        "answer": "Oceania",
+        "images": [ "assets/pozzi.jpg" ],
+        "images_revision": [ "assets/oceania.jpg" ]
+      },
+      {
+        "description": "In De Dag Van Vandaag wordt elke dag gequizd over de actualiteit, waarna Fien Germijns ergens in een Vlaamse huiskamer binnenvalt met een smak geld. Wij hebben geen Fien Germijs, en ook geen smak geld, maar wel een actualiteitsvraag.",
+        "question": "De echte K3 is op weg naar een reünie dit jaar. Hoelang zal het op 12 september 2025 zijn dat ze hun debuut maakten?",
+        "answer": "25 jaar",
+        "images": [ "assets/k3.png" ]
+      },
+      {
+        "description": "Wanneer er gesponsorde inhoud is in een televisieprogramma, verschijnt het icoon PP of Product Placement in beeld. Lego Masters doet er een schep bovenop, en maakt van het hele programma een advertentie. Schuilen er LEGO Masters in jullie?",
+        "question": "Bouw deze creatie na met de blokjes die jullie gekregen hebben.",
+        "answer": "de jury beslist :-)",
+        "images": [ "assets/lego-voor.jpg", "assets/lego-zijkant.jpg", "assets/lego-boven.jpg" ]
+      }
+    ],
+    "Muziek": [
+        {
+            "description": "In deze ronde zitten in alle antwoorden plaatsen of talen verstopt. Veel succes\\!",
+            "question": "Welke zanger horen we in dit nummer achterstevoren?",
+            "answer": "Frans Bauer",
+            "audio": "assets/even-voor-mij-r.mp3",
+            "audio_revision": "assets/even-voor-mij-n.mp3",
+            "images_revision": [
+                "assets/even-voor-mij.jpg"
+            ]
+        },
+        {
+            "description": "Welke groep horen we in dit nummer achterstevoren?",
+            "question": "Welke groep horen we in dit nummer achterstevoren?",
+            "answer": "Swedish House Maffia",
+            "audio": "assets/worry-child-r.mp3",
+            "audio_revision": "assets/worry-child-n.mp3",
+            "images_revision": [
+                "assets/worry-child.jpg"
+            ]
+        },
+        {
+            "description": "Wie aan videogames denkt, denkt misschien aan opzwepende computerbliepjes. Niet zo bij de muziek van Minecraft. Die is ingetogen en rustig.",
+            "question": "Hoe heet dit nummer van de Minecraft-soundtrack, met dezelfde naam als het land waar Minecraft vandaan komt? Tip: de bezieler van Minecraft heet Magnus Persson.",
+            "answer": "Sweden",
+            "explanation": "Minecraft komt uit Zweden en Magnus Persson is dus een Zweed.",
+            "audio": "assets/sweden-n.mp3",
+            "images": [
+                "assets/sweden.jpg"
+            ],
+            "images_revision": [
+                "assets/sweden.jpg",
+                "assets/magnus-persson.jpg"
+            ]
+        },
+        {
+            "description": "Karen Lahousse zet wel eens graag de radio aan in de auto. Ze komt net langsgereden.",
+            "question": "Naar welk nummer luistert Karen in de auto?",
+            "answer": "Big in Japan",
+            "audio": "assets/big-in-japan-r.mp3",
+            "audio_revision": "assets/big-in-japan-n.mp3",
+            "images_revision": [
+                "assets/big-in-japan.jpg"
+            ]
+        },
+        {
+            "description": "Deze twee nummers hebben beide dezelfde titel.",
+            "question": "Welke titel zoeken we?",
+            "answer": "Englishman in New York",
+            "explanation": "Englishman in New York van Sting en An Englishman in New York van Godley \\& Creme",
+            "audio": "assets/englishman-r.mp3",
+            "audio_revision": "assets/englishman-n.mp3",
+            "images_revision": [
+                "assets/an-englishman.jpg",
+                "assets/englishman.jpg"
+            ]
+        },
+        {
+            "description": "We horen hier Oosterse Nacht uit Alladin.",
+            "question": "Wat is de titel van de originele versie van Oosterse Nacht?",
+            "answer": "Arabian nights",
+            "explanation": "Leuk weetje. In de oorspronkelijke Engelstalige versie zongen ze: *Where they cut off your ear / If they don’t like your face*. Door kritiek op geïmpliceerd racisme werd dat: *Where it’s flat and immense / And the heat is intense*. En in de live-action remake met Will Smith werd de tekst nogmaals aangepast: *Where you wander among / every culture and tongue*. Dat weten jullie nu ook weer.",
+            "video": "assets/arabian-nights-r.mp4",
+            "video_revision": "assets/arabian-nights-n.mp4"
+        },
+        {
+            "description": "Doe maar mee en schuif wat dichterbij. Doe die dans.",
+            "question": "Hoe heet het originele nummer van de Indianendans?",
+            "answer": "In Zaïre",
+            "explanation": "Dit nummer van Johnny Wakelin gaat over “Rumble in the Jungle”, het historische gevecht tussen George Foreman en Muhammed Ali in Kinshasa. Ali sloeg Foreman knock-out in de achtste ronde.",
+            "images": [
+                "assets/indianendans.jpg"
+            ],
+            "images_revision": [
+                "assets/in-zaire.jpg"
+            ],
+            "audio": "assets/in-zaire-r.mp3",
+            "audio_revision": "assets/in-zaire-n.mp3"
+        },
+        {
+            "description": "We springen naar de volgende vraag.",
+            "question": "Hoe heet dit nummer?",
+            "answer": "Down under",
+            "explanation": "Het nummer is een viering van het land Australië.",
+            "audio": "assets/down-under-r.mp3",
+            "audio_revision": "assets/down-under-n.mp3",
+            "images_revision": [
+                "assets/down-under.jpg"
+            ]
+        },
+        {
+            "description": "We gaan over naar de musical Evita.",
+            "question": "Hoe heet dit tot tranen bewegende nummer?",
+            "answer": "Don’t cry for me Argentina",
+            "audio": "assets/dont-cry-argentina-r.mp3",
+            "audio_revision": "assets/dont-cry-argentina-n.mp3",
+            "images_revision": [
+                "assets/argentina.jpg"
+            ]
+        },
+        {
+            "description": "En dan nu het laatste nummer. De band is ziek, dus we hebben alleen nog de muziek.",
+            "question": "Hoe heet dit nummer?",
+            "answer": "Let’s get Spanish",
+            "explanation": "Van De Jeugd Van Tegenwoordig",
+            "audio": "assets/get-spanish-r.mp3",
+            "audio_revision": "assets/get-spanish-n.mp3",
+            "images_revision": [
+                "assets/spanish.jpg"
+            ]
+        }
+    ],
+    "durante_Emoji": [
+        {
+            "question": "Geef het juiste spreekwoord.",
+            "question_general": "Vertaal naar het Nederlands.",
+            "images": [ "assets/emoji-1.jpg" ],
+            "answer": "de kat uit de boom kijken"
+        },
+        {
+            "question": "Geef het juiste spreekwoord.",
+            "images": [ "assets/emoji-2.jpg" ],
+            "answer": "met veel vijven en zessen"
+        },
+        {
+            "question": "Geef het juiste spreekwoord.",
+            "images": [ "assets/emoji-3.jpg" ],
+            "answer": "drie man en een paardenkop"
+        },
+        {
+            "question": "Geef het juiste spreekwoord.",
+            "images": [ "assets/emoji-4.jpg" ],
+            "answer": "parels voor de zwijnen"
+        },
+        {
+            "question": "Geef het juiste spreekwoord.",
+            "images": [ "assets/emoji-5.jpg" ],
+            "answer": "alle wegen leiden naar Rome"
+        },
+        {
+            "question": "Geef het juiste spreekwoord.",
+            "images": [ "assets/emoji-6.jpg" ],
+            "answer": "wie zijn gat verbrandt moet op de blaren zitten"
+        },
+        {
+            "question": "Geef het juiste spreekwoord.",
+            "images": [ "assets/emoji-7.jpg" ],
+            "answer": "oost west, thuis best"
+        },
+        {
+            "question": "Geef het juiste spreekwoord.",
+            "images": [ "assets/emoji-8.jpg" ],
+            "answer": "van een kale reis terugkomen"
+        },
+        {
+            "question": "Geef het juiste spreekwoord.",
+            "images": [ "assets/emoji-9.jpg" ],
+            "answer": "het gras is altijd groener aan de andere kant"
+        },
+        {
+            "question": "Geef het juiste spreekwoord.",
+            "images": [ "assets/emoji-10.jpg" ],
+            "answer": "tijd vliegt"
+        }
+    ],
+    "Break": [],
+    "Cijfers en letters": [
+        {
+            "description": "Oké, we hebben de televisieprogramma’s al gehad, maar omdat we zulke liefhebbers zijn van het Britse programma “Countdown”, doen we een hele ronde Cijfers en Letters. Hier gaan we\\!",
+            "question": "Welk object is 400 in Romeinse cijfers?",
+            "answer": "CD",
+            "images_revision": [
+                "assets/CD.jpg"
+            ]
+        },
+        {
+            "description": "Je krijgt 6 getallen en een willekeurig getal. Met elementaire wiskundige operaties moet je het random getal het dichtst benaderen. Wie in de marge van \\+- 10 zit, krijgt een punt.",
+            "question": "Maak met 6, 10, 25, 75, 5, 50 het getal 728\\!",
+            "answer": "6 + (10 * 75) + 25 - 5 - 50 = 726"
+        },
+        {
+            "description": "Neutrale voornaamwoorden zijn lang niet de recentste innovatie in onze taal. Tegenwoordig zijn er ook innovatieve leestekens.",
+            "question": "Met welk innovatief leesteken kan je een uitroepende vraag aanduiden?",
+            "answer": "De interrobang",
+            "images": [
+                "assets/interrobang.jpg"
+            ]
+        },
+        {
+            "description": "Het schrift is een wonderlijke uitvinding, maar er bestaan allerlei verschillende soorten schriften.",
+            "question": "Welk soort schrift gebruikt men voor Hindi?",
+            "choices": [
+                "Abjdad",
+                "Abugida",
+                "Alfabet",
+                "Logografisch schrift"
+            ],
+            "answer": "Abugida",
+            "images": [
+                "assets/devanagari.png"
+            ]
+        },
+        {
+            "description": "Van het ene schrift naar het andere schrift.",
+            "question": "Hoe moet je deze hiërogliefenpassage lezen?",
+            "choices": [
+                "Van links naar rechts, boven naar beneden",
+                "Van rechts naar links, boven naar beneden",
+                "Van links naar rechts, beneden naar boven",
+                "Van rechts naar links, beneden naar boven"
+            ],
+            "explanation": "hangt af van hoe de vogels staan, je moet tegen de aangezichten van de dieren lezen",
+            "answer": "Van rechts naar links, boven naar beneden",
+            "images": [
+                "assets/hieroglyphs.gif"
+            ]
+        },
+        {
+            "description": "We weten allemaal dat tellen in het Frans geen sinecure is. Maar in het Deens houden ze er ook wel vreemde telgewoonten op na.",
+            "question": "Als je weet dat 60 tre-sinds-tyve (3 x 20) is, en 50 halv-tredje-sinds-tyve (2.5 x 20), wat is dan fem-og-halv-fjerd-sinds-tyve? ‘Fem’ is ‘5’ en ‘og’ is ‘en’.",
+            "answer": "75 (5 + 3.5 x 20)",
+            "images": [
+                "assets/danish.jpg"
+            ]
+        },
+        {
+            "description": "Van Denen wordt gezegd dat ze praten met een patat in de mond. Deze klank is de Denen dan ook niet vreemd.",
+            "question": "Hoe noemen we deze klank?",
+            "answer": "schwa",
+            "images": [
+                "assets/schwa.jpg"
+            ],
+            "images_revision": [
+                "assets/be-like-schwa.jpg"
+            ]
+        },
+        {
+            "description": "Vroeger was er voor de \\<th\\> in het Engels een speciaal symbool.",
+            "question": "Wat is de naam van þ in het Engels?",
+            "answer": "de thorn",
+            "images": [
+                "assets/beowulf.jpg"
+            ]
+        },
+        {
+            "description": "Ierse namen gaan helemaal van’t padje, of in Ierland van’t Patrickje.",
+            "question": "Hoe kennen wij de naam *Caoimhín?*",
+            "answer": "Kevin",
+            "images": [
+                "assets/irishman.jpg"
+            ],
+            "images_revision": [
+                "assets/kevin.jpg"
+            ]
+        }
+    ],
+    "Literatuur": [
+        {
+            "description": "Een vraag stellen met Reinaert De Vos als antwoord zou te gemakkelijk zijn. Daarom maken we het iets moeilijker.",
+            "question": "Noem vier personages uit Reinaert De Vos. Geen vier juist \\= geen punten.",
+            "answer": "Reinaert, Grimbeert, Koning Nobel, Tibeert, Bruun, Isengrijn, Cuwaert, Pancer, Cantecleer, Coppe, Pastoor, Martinet, Julocke, Hermeline, Gentel, Belijn",
+            "images": [
+                "assets/reinaart.jpg"
+            ],
+            "images_revision": [
+                "assets/reinaart-figuren.jpg"
+            ]
+        },
+        {
+            "description": "Rupi Kaur kan rijmen en dichten zonder haar gat op te lichten. Maar misschien lichten wij jullie wel op.",
+            "question": "i tend to forget who i am / when i’m constantly around other people — Is dit een authentiek gedicht van Rupi Kaur, of kwam het uit ChatGPT gerold?",
+            "answer": "Echte rupi kaur\\!",
+            "images": [
+                "assets/rupi-kaur.jpg"
+            ],
+            "images_revision": [
+                "assets/kaur.jpg"
+            ]
+        },
+        {
+            "description": "Goede literatuur is als een lekker pak friet. Je kunt er niet genoeg van krijgen. Wij combineren graag beide.",
+            "question": "Welke schrijver heeft een naam die al eens in de friteuse lijkt te belanden? Zijn naam is al gevallen vanavond.",
+            "answer": "Stephen Fry",
+            "images": [
+                "assets/friteuse.jpg"
+            ],
+            "images_revision": [
+                "assets/fry.jpg"
+            ],
+            "explanation": "Fry is frituren in het Engels. Hehe"
+        },
+        {
+            "description": "Ook aan KU Leuven kun je leren schrijven.",
+            "question": "Wie geeft dit jaar het vak Creatief Schrijven en is daarmee de writer-in-residence van de KU Leuven?",
+            "answer": "Koen Peeters",
+            "images": [
+                "assets/creatief-schrijven.jpg"
+            ],
+            "images_revision": [
+                "assets/koen-peeters.jpg"
+            ]
+        },
+        {
+            "description": "Tijd om samen te scanderen!",
+            "question": "Welke versvoet is dit? *Wel klemtoon, geen klemtoon.*",
+            "choices": [
+                "jambe",
+                "trochee",
+                "spondee",
+                "dactylus"
+            ],
+            "answer": "trochee",
+            "explanation": "jambe = geen klemtoon + klemtoon, spondee = 2x geen klemtoon, dactylus = klemtoon + 2x geen klemtoon"
+        },
+        {
+            "description": "La mort de l’auteur — de auteur is dood. Voor de interpretatie van een literair werk zijn we niet aangewezen op de auteur. We mogen onze interpretatie lekker zelf kiezen.",
+            "question": "Welke literatuurcriticus verklaarde de auteur dood in 1967?",
+            "answer": "Roland Barthes",
+            "images": [
+                "assets/barthes.jpg"
+            ]
+        },
+        {
+            "description": "We willen ook graag de schijnwerpers op het theater richten. Relevanter dan ooit lijkt het “Episch theater”, een vorm van theater dat inzichten wil brengen aan het publiek door hen te vervreemden.",
+            "question": "Welke theatermaker uit het begin van de 20ste eeuw is onlosmakelijk verbonden met het Episch Theater?",
+            "answer": "Bertolt Brecht",
+            "images": [
+                "assets/brecht.jpg"
+            ]
+        },
+        {
+            "description": "Samuel Coleridge verklaarde dat we in verhalen accepteren dat niet altijd alles realistisch hoeft te zijn.",
+            "question": "Hoe noemde Coleridge de acceptatie van onrealistische elementen in fictie?",
+            "answer": "willing suspension of disbelief",
+            "images": [
+                "assets/coleridge.jpg"
+            ]
+        },
+        {
+            "description": "Eén kopje koffie, in een steegje in Tokio. Vandaag, of honderd jaar geleden? Echte literatuuraficionado’s hadden het al door: een vraag over Before the Coffee Gets Cold. We tijdreizen naar vandaag om jullie te vragen naar de auteur van dit boek.",
+            "question": "Welke Japanse auteur schreef Before the Coffee Gets Cold?",
+            "answer": "Toshikazu Kawaguchi",
+            "images": [
+                "assets/coffee-cold-anthe.jpg"
+            ],
+            "images_revision": [
+                "assets/coffee-cold.jpg"
+            ]
+        },
+        {
+            "description": "Onze laatste vraag is eigenlijk ook een actuavraag.",
+            "question": "Wie won de laatste Nobelprijs voor de literatuur?",
+            "answer": "Han Kang",
+            "explanation": "Uit Zuid-Korea",
+            "images": [
+                "assets/kang.jpg"
+            ]
+        }
+    ],
+    "Varia": [
+      {
+        "description": "Voor deze ronde gaan we down the hall and to the left. We zijn op zoek naar de naam van een filmfranchise. In de tweede film van deze franchise heeft de huidige president van Amerika een korte cameo.",
+        "question": "Wat is de oorspronkelijke titel van de filmfranchise die in het Frans heet: 'Maman, j'ai raté l'avion'",
+        "answer": "Home Alone",
+        "explanation": "De tweede film speelt zich af in New York, waar Kevin Donald Trump tegen het lijf loopt.",
+        "images": [
+            "assets/vliegtuig.jpg"
+        ],
+        "images_revision": [
+          "assets/maman.jpg"
+        ]
+      },
+      {
+        "description": "Wie voor het Frans lang genoeg teruggaat in de tijd, komt uit bij het Latijn. Dat de Romeinen de Schelde kenden als de rivier *Scaldis*, dat wist je misschien al. Meer naar het oosten, hebben we de Kempen.",
+        "question": "Hoe noemden de Romeinen de Kempen?",
+        "answer": "Toxandria / Texandria",
+        "explanation": "De naam zou bestaan uit de Germaanse woorden tehswa en andra en zo \"op de rechteroever\" betekenen.",
+        "images": [
+          "assets/toxandria_a.png"
+        ],
+        "images_revision": [
+          "assets/toxandria_b.png"
+        ]
+      },
+      {
+        "description": "In de buurt van de Schelde vinden we het KMSKA. 2024 was het Ensorjaar in de Belgische musea, en dat werd ook in Antwerpen gevierd. Voor het beroemdste werk van Ensor moet je echter naar LA.",
+        "question": "Wat is de naam het beroemdste werk van Ensor?",
+        "answer": "De intocht van Christus te Brussel in 1889",
+        "images": [
+          "assets/ensor.jpg"
+        ]
+      },      
+      {
+        "description": "Van Amerika hebben we tegenwoordig de buik vol, dus we richten ons graag op de Vlaamse canon. Wie heb ik aan de lijn, hallo hallo? Zo namen de meisjes van K3 de telefoon op in afwachting van hun Teleromeo. Misschien was hun Teleromeo wel een Italiaan.",
+        "question": "Hoe nemen Italianen de telefoon op?",
+        "answer": "pronto?",
+        "video": "assets/teleromeo.mp4",
+        "video_revision": "assets/pronto.mp4"
+      },   
+      {
+        "description": "Gelukkig kunnen wij gewoon bellen of videochatten. We hebben er echter een lange weg voor moeten afleggen. In 1791 ontwikkelde de Fransman Claude Chappe de eerste optische telegraaf. Ook nu nog leert men vaak in de scouts een versie van een alfabet gebaseerd op die telegraafmachine. In de volksmond noemt men het ook wel eens het vlaggenalfabet.",
+        "question": "Onder welke naam is het vlaggenalfabet beter bekend? We zien hier de cijfers van 0-9.",
+        "answer": "semafooralfabet",
+        "images": [
+          "assets/semafoor.png"
+        ]
+      },
+      {
+        "description": "Hey Drerrie (doe een dab). We weten allemaal dat jongerentaal supersigma is. Jullie kunnen aurapunten verdienen door ons het volgende te vertellen:",
+        "question": "Wat bedoelt de jeugd van tegenwoordig met 'Pookie, stop met yappen'?",
+        "answer": "'[beste] vriend, stop met babbelen [over niets]'",
+        "images": [
+          "assets/drerrie.jpg"
+        ]
+      },
+      {
+        "description": "Een andere hippe vogel is Donald Muylle. Iedereen kent hem, en zijn beroemde uitspraak: Dovy keukens: wij maken uw keuken in België. Een andere Vlaamse *staple* is de VTM-reeks *Familie Backeljau*.",
+        "question": "Wat is de slogan van Frituur 't Half Kieken uit de gezellige reeks *Familie Backeljau*?",
+        "answer": "Alle dagen open, soms gesloten.",
+        "images": [
+          "assets/halfkieken-blur.jpg"
+        ],
+        "images_revision": [
+          "assets/halfkieken.JPG"
+        ]
+      },
+      {
+        "description": "Vorig jaar was het Nederlandse woord van het jaar, volgense de Taalunie, het woord 'hangmatbeleggen'. Wij zijn echter niet het enige land dat een woord van het jaar krijgt.",
+        "question": "Welk woord koos de Oxford English Dictionary vorig jaar als word of the year 2024?",
+        "answer": "brain rot",
+        "images": [
+          "assets/oed.gif"
+        ]
+      },
+      {
+        "description": "Deze maandag was het Super Mario-dag. 10 Maart kun je met veel goede wil lezen als MAR 10, Mario dus. Er bestaan nog dergelijke dagen.",
+        "question": "Welke dag vieren we op 4 mei?",
+        "answer": "Star Wars-dag (May The Fourth)",
+        "explanation": "\"May the force be with you\" is een bekende uitspraak in Star Wars.",
+        "images": [
+          "assets/mar10.jpg"
+        ],
+        "images_revision": [
+          "assets/may4.png"
+        ]
+      },
+      {
+        "description": "Na 4 mei komt de zomer er weer aan. Dat wil zeggen, tijd voor cocktails!",
+        "question": "Welke ingrediënten heb je standaard nodig voor een geslaagde mojito?",
+        "answer": "(witte) rum, suiker, limoensap, spuitwater, munt",
+        "images_revision": [
+          "assets/mojito.jpg"
+        ]
+      }
+    ],
+    "Strips": [
+        {
+            "description": "In deze ronde stellen we vragen in spreekwoordelijke tekstballonnen, want deze ronde gaat volledig over strips. Strips zijn een universeel medium dat de hele wereld rondreist. Daarom zijn er ook ettelijke vertalingen van bekende strips. Ga met ons mee op een getekende wereldreis! We beginnen in Zweden. Daar kennen ze een bekende Amerikaanse dikke oranje kat als “Gustaf”.",
+            "question": "Wat is de oorspronkelijke naam van de Zweedse kat Gustaf?",
+            "answer": "Garfield",
+            "images": [
+                "assets/gustaph.jpg"
+            ],
+            "images_revision": [
+                "assets/garfield.jpg"
+            ]
+        },
+        {
+            "description": "Nu we de Amerikaanse comics behandeld hebben, gaan we dichter bij huis naar Willy Vandersteen in Kasterlee. Dat Suske en Wiske ‘Bob et Bobette’ heten in het Frans, dat leerde u in de Franse les. Maar",
+            "question": "Hoe heten Suske en Wiske in het Engels?",
+            "answer": "Spike \\& Suzy (Willy \\& Wanda in Amerika)",
+            "images": [
+                "assets/suske-wiske.jpg"
+            ],
+            "images_revision": [
+                "assets/spike-suzy.jpg"
+            ]
+        },
+        {
+            "description": "Van het Engels naar het Frans.",
+            "question": "Welke bekende Vlaamse stripreeks werd, zonder succes, in 1992 ook in het Frans gelanceerd als *Fanny et Cie*?",
+            "answer": "Kiekeboe / De Kiekeboes",
+            "images": [
+                "assets/fanny.jpg"
+            ],
+            "images_revision": [
+                "assets/fanny-et-cie.jpg",
+                "assets/kiekeboe.jpg"
+            ]
+        },
+        {
+            "description": "Ook de Duitsers lezen wel eens graag een Belgische strip. Peter und Alexander gingen naar het Paradiesinsel en ook aap Schoko komt wel eens voor.",
+            "question": "Welke strip, die in het Nederlands maar één naam draagt, heet in het Duits *Peter und Alexander*?",
+            "answer": "Jommeke",
+            "images": [
+                "assets/duitsland.jpg"
+            ],
+            "images_revision": [
+                "assets/peter-alexander.jpg",
+                "assets/jommeke.jpg"
+            ]
+        },
+        {
+            "description": "Een ander Belgisch exportproduct nu.",
+            "question": "Welke figuurtjes zijn in het buitenland bekend als los pitufos / i puffi / lanjingling?",
+            "answer": "De smurfen",
+            "images": [
+                "assets/drie-appels-hoog.jpg"
+            ],
+            "images_revision": [
+                "assets/smurf.jpg"
+            ]
+        },
+        {
+            "description": "Belgische toeristen worden op de luchthaven van Zaventem verwelkomd door een gigantische Kuifjeraket. Toeristen die louche zaakjes doen, lopen de kans geschaduwd te worden door detectives. Gelukkig hoeven ze niet te vrezen voor Dupont et Dupond.",
+            "question": "Hoe heten Dupont en Dupond in het Nederlands?",
+            "answer": "Jansen en Janssen / Jansen en Jansens / Janssen en Janssens",
+            "images": [
+                "assets/dupondt.jpg"
+            ],
+            "explanation": "Er zijn verschillende vertalingen geweest in de loop der jaren. Hun meest oorspronkelijke namen \\- in de Franstalige versie \\- zijn X33 en X33 BIS"
+        },
+        {
+            "description": "Van Nederlands gaan we terug naar het Frans.",
+            "question": "Wat is de originele, Franse naam van de reeks Robbedoes en Kwabbernoot?",
+            "answer": "Spirou (et Fantasio)",
+            "images": [
+                "assets/robbedoes.jpg"
+            ],
+            "images_revision": [
+                "assets/robbedoes.jpg",
+                "assets/spirou.jpg"
+            ]
+        },
+        {
+            "description": "De Kiekeboe-strip “Wie A zegt” werd in 2016 naar het Antwerps vertaald door een bekende Antwerpenaar met een ongekend stemvolume. Hij stond al verschillende keren in het Sportpaleis en zowel zijn voor- als achternaam zijn zot van A.",
+            "question": "Welke Antwerpse roeptoeter zorgde voor een Antwerpse Kiekeboe-vertaling?",
+            "answer": "Alex Agnew",
+            "images": [
+                "assets/roeptoeter.jpg"
+            ],
+            "images_revision": [
+                "assets/alex-agnew.jpg"
+            ]
+        },
+        {
+            "description": "Asterix en Obelix kent iedereen. Zelfs tot in Finland kennen ze deze twee dappere Galliërs. Andere personages worden in het buitenland herdoopt.",
+            "question": "Hoe heet de Finse Akvavitix in het Nederlands?",
+            "answer": "Panoramix",
+            "images": [
+                "assets/panoramix.jpg"
+            ]
+        },
+        {
+            "description": "Afsluiten doen we in Turkije. Een beroemde Belgische cowboy, getekend door Morris, heet daar namelijk Red Kit. Hier heeft de beste man meer chance.",
+            "question": "Hoe heet ‘Red Kit’ in het Nederlands?",
+            "answer": "Lucky Luke",
+            "images": [
+                "assets/red-kit.jpg"
+            ],
+            "images_revision": [
+                "assets/red-kit.jpg",
+                "assets/lucky-luke.jpg"
+            ]
+        }
+    ],
+    "durante_KU Koken": [
+        {
+            "question": "Geef de juiste term voor deze handeling.",
+            "question_general": "Geef de juiste termen voor deze handelingen die elke chef moet leren.",
+            "answer": "blancheren",
+            "images": [ "assets/blancheren.jpg" ]
+        },
+        {
+            "question": "Geef de juiste term voor deze handeling.",
+            "answer": "decanteren / karafferen",
+            "images": [ "assets/decanteren.jpg" ]
+        },
+        {
+            "question": "Geef de juiste term voor deze handeling.",
+            "answer": "gratineren",
+            "images": [ "assets/gratineren.jpg" ]
+        },
+        {
+            "question": "Geef de juiste term voor deze handeling.",
+            "answer": "paneren",
+            "images": [ "assets/paneren.jpg" ]
+        },
+        {
+            "question": "Geef de juiste term voor deze handeling.",
+            "answer": "pocheren",
+            "images": [ "assets/pocheren.jpg" ]
+        },
+        {
+            "question": "Geef de juiste term voor deze handeling.",
+            "answer": "flamberen",
+            "images": [ "assets/flamberen.jpg" ]
+        },
+        {
+            "question": "Geef de juiste term voor deze handeling.",
+            "answer": "karameliseren",
+            "images": [ "assets/karameliseren.jpg" ]
+        },
+        {
+            "question": "Geef de juiste term voor deze handeling.",
+            "answer": "marineren",
+            "images": [ "assets/marineren.jpg" ]
+        },
+        {
+            "question": "Geef de juiste term voor deze handeling.",
+            "answer": "tempereren",
+            "images": [ "assets/tempereren.jpg" ]
+        },
+        {
+            "question": "Geef de juiste term voor deze handeling.",
+            "answer": "fileren",
+            "images": [ "assets/fileren.jpg" ]
+        }
+    ]
+}

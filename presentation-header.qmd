@@ -1,0 +1,203 @@
+---
+title: "De Grote Talenquiz"
+author: "Onderzoekseenheid Taalkunde en Kring Babylon"
+format:
+  revealjs:
+    incremental: true
+    logo: 600-jaar-kul-quiz/logo.png
+    footer: "De Grote Talenquiz"
+    transition: fade
+    css: presentation/style.css
+include-after-body: presentation/fragmentPlay.html
+---
+
+::: {.text-center .v-center-container}
+
+<div style="font-size: 5vh;">
+
+Welkom bij de Grote Talenquiz!
+
+</div>
+
+:::
+
+::: {.notes}
+Uitleg over de avond.
+:::
+
+## Strijdende teams vanavond
+
+::::: {.columns}
+
+:::: {.column width="50%"}
+Categorie collega's
+
+- Error 404
+- Quiztine and the queens
+- De 5 dansende prinsessen
+- The Usage-Paced Linguists
+
+::::
+
+:::: {.column width="50%"}
+
+Categorie studenten
+
+- De Talentubbies
+- IQ4U
+- Freud Is Over Party
+- sinology goes quizzing
+- Quiz Quae Quid
+- de Nikskes
+- Homeros' muzen
+
+::::
+
+:::::
+
+## Strijdende teams vanavond (2)
+
+::::: {.columns}
+
+:::: {.column width="50%"}
+Categorie alumni
+
+- Calembouriates
+- Apocalyps
+- Hebban olla antwoorden
+- Daklozen en Antje
+- UCLL-jonkies
+
+::::
+
+:::: {.column width="50%"}
+Categorie alumni
+
+- Vettige sjwa en de epenthetische P
+- Ti-taal-tovenaars
+- De veteranen
+- De taalkundige trollen
+- Dirk
+
+::::
+
+:::::
+
+## Strijdende teams vanavond (3)
+
+::::: {.columns}
+
+:::: {.column width="50%"}
+Categorie alumni
+
+- My Sheila (Sped Up Version)
+- The queen and the cynic
+- Taalvaart
+- Meetaal
+- Apokekolokunthoménoi
+
+::::
+
+:::: {.column width="50%"}
+Categorie alumni
+
+- Het kafkaiaans napoleontisch bewind
+- We're Saussure!
+- De Slimsons
+- succesmzisjes
+- Vae Victis
+
+::::
+
+:::::
+
+## De regels
+
+1. Geen global systems for mobile communications: geen gsm's!
+1. Personen: achternaam volstaat -- als je de voornaam geeft, moet die correct zijn
+1. Kleinste punteenheid = half puntje
+2. Ben je het niet eens met een antwoord? Zeuren kan tijdens de pauze
+3. De jury beslist of ze naar jullie gezeur zal luisteren
+4. De dorstigen zullen gelaafd worden!
+5. Geniet van de avond!
+
+::: {.notes}
+Eerst een paar regels
+
+1. Geen gsm's!
+1. Personen: achternaam volstaat -- als je de voornaam geeft, moet die correct zijn
+1. Kleinste punteenheid = half puntje
+2. Ben je het niet eens met een antwoord? Zeuren kan tijdens de pauze
+3. De jury beslist of ze naar jullie gezeur zal luisteren
+4. De dorstigen zullen gelaafd worden! Je kan je bestelling doorgeven op een blaadje en de studenten zullen rondkomen. Betalen kan via payconic.
+5. Geniet van de avond!
+
+:::
+
+## Voor we beginnen...
+
+Met dank aan onze verbeteraars en juryleden 🫰🏻️
+
+Graag een applausje voor Karen Lahousse, Thomas Van Hoey, Katrien Witpas en de studentenjury!
+
+## Voor we beginnen...
+
+Dank ook aan onze sponsors en medewerkers
+
+- Boekarest (Ladeuzeplein)
+- Madmum (koffiebar in Letteren)
+- Bestuur Faculteit Letteren
+- Kring Babylon
+
+We verwelkomen jullie nadien ook graag op de afterparty in **Fakbar Letteren**. Om 23 uur geven we daar ook een traktatie. Het thema is "fonemenfeestje", en een van de promo's is *schwappes*.
+
+## Rondes
+
+::::: {.columns}
+
+:::: {.column width="50%"}
+
+1. 600 jaar KU Leuven 
+2. Onomasiologie
+3. Er is geen bal op de TV
+4. Muziek
+
+:::  {.fragment}
+
+Tafelronde: emoji
+
+PAUZE
+
+:::
+
+::::
+
+:::: {.column width="50%"}
+
+5. Cijfers en letters
+6. Literatuur
+7. Varia
+8. Strips
+
+:::  {.fragment}
+
+Tafelronde: KU Koken
+
+:::
+
+::::
+
+:::::
+
+
+
+----
+
+::: {.text-center .v-center-container}
+
+<div style="text-align: center; font-size: 10vw;">
+
+Veel succes!
+</div>
+
+:::
