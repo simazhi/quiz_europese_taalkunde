@@ -1,32 +1,107 @@
 {
-    "600 jaar KU Leuven": [
+    "durante_Emoji": [
         {
-            "description": "Dit jaar mag KU Leuven 600 kaarsjes uitblazen. Er valt heel wat te vertellen over deze geschiedenis, maar de echte OGs herinneren zich wellicht het Collegium Trilingue, waar de drie Bijbelse talen onderwezen werden.",
-            "question": "Welke talen kon je studeren aan het Collegium Trilingue?",
-            "answer": "Latijn, (Oud)grieks en Hebreeuws",
+            "question": "Geef de juiste uitdrukking of titel.",
+            "question_general": "Vertaal naar het Nederlands.",
+            "images": [ "assets/emoji-1.jpg" ],
+            "answer": "de pen is machtiger dan het zwaard"
+        },
+        {
+            "question": "Geef de juiste uitdrukking of titel.",
+            "images": [ "assets/emoji-2.jpg" ],
+            "answer": "wie A zegt moet ook B zeggen"
+        },
+        {
+            "question": "Geef de juiste uitdrukking of titel.",
+            "images": [ "assets/emoji-3.jpg" ],
+            "answer": "Decamerone (van Bocaccio)"
+        },
+        {
+            "question": "Geef de juiste uitdrukking of titel.",
+            "images": [ "assets/emoji-4.jpg" ],
+            "answer": "Goddelijke komedie (van Dante)"
+        },
+        {
+            "question": "Geef de juiste uitdrukking of titel.",
+            "images": [ "assets/emoji-5.jpg" ],
+            "answer": "brain rot"
+        },
+        {
+            "question": "Geef de juiste uitdrukking of titel.",
+            "images": [ "assets/emoji-6.jpg" ],
+            "answer": "Het Nibelungenlied"
+        },
+        {
+            "question": "Geef de juiste uitdrukking of titel.",
+            "images": [ "assets/emoji-7.jpg" ],
+            "answer": "Afscheid van een geliefde (van Sappho)"
+        },
+        {
+            "question": "Geef de juiste uitdrukking of titel.",
+            "images": [ "assets/emoji-8.jpg" ],
+            "answer": "After he drove over the cat with his car, there was cat all over the driveway"
+        },
+        {
+            "question": "Geef de juiste uitdrukking of titel.",
+            "images": [ "assets/emoji-9.jpg" ],
+            "answer": "Schimmen (van Ibsen)"
+        },
+        {
+            "question": "Geef de juiste uitdrukking of titel.",
+            "images": [ "assets/emoji-10.jpg" ],
+            "answer": "Time is money"
+        }
+    ],
+
+
+
+
+
+
+
+
+    "Rode draad": [
+        {
+            "description": "Deze professor kom je wellicht wel eens tegen als je Engels studeert dit jaar",
+            "question": "Hoe spel je zijn naam juist? \\- Benedikt Zsmrecsanyi, \\- Benedikt Szmrecsanyi, \\- Benedict Szmrescanyi, \\- Benedict Szrmecsanyi ",
+            "answer": "Benedikt Szmrecsanyi",
             "images": [
-                "assets/collegium.jpeg"
+                "assets/benedikt.jpg"
             ]
         },
         {
             "description": "Er zijn natuurlijk nog meer talen op deze wereld.",
-            "question": "Zet in de juiste volgorde: Luwen \\- Lovaina \\- Lovanio \\- Ruuban. De talen zijn: Japans, Chinees, Spaans, Italiaans",
-            "answer": "Chinees (Luwen) → Lovaina (Spaans) → Lovanio (Italiaans) → Ruuban (Japans)",
+            "question": "Wie schreef dit boek?",
+            "answer": "Karl Marx",
             "images": [
-                "assets/exotic-world.jpg"
+                "assets/marx_pixel.png"
+            ],
+            "images_revision": [
+                "assets/marx_normal.png"
             ]
         },
         {
-            "description": "Wie Letteren gestudeerd heeft aan KU Leuven is waarschijnlijk gehecht geraakt aan de betonnen gigant aan de Blijde Inkomststraat: het Erasmushuis. Dit brutalistische gebouw viert dit jaar zijn 50ste verjaardag, maar de Erasmussite heeft ook een rijke geschiedenis. Zo stond er vroeger een kerk, wat architect Marc Dessauvage geïnspireerd moet hebben.",
-            "question": "Welke vorm heeft het Erasmushuis als je het langs boven zou bekijken?",
-            "answer": "Een kruis",
+            "description": "We zijn op zoek naar een steengoede wijn uit de Bordeaux streek, heel erg bekend en geliefd door o.a. John F Kennedy",
+            "question": "Hoe heet deze steengoede wijn?",
+            "answer": "(Château) Pétrus",
             "images": [
-                "assets/erasmushuis.jpg"
+                "assets/petrus_pixel.png"
             ],
             "images_revision": [
-                "assets/erasmushuis-kruis.jpg"
+                "assets/petrus_answer.png"
             ]
         },
+
+
+
+
+
+
+
+
+
+
+        
         {
             "description": "Beyonce. Zendaya. Natalia. Beroemde mensen hebben geen achternaam nodig. Voor de iets oudere mensen, zoals Vesalius, kennen we vooral de achternaam.",
             "question": "Wat was de voornaam van Vesalius?",
@@ -379,59 +454,7 @@
             ]
         }
     ],
-    "durante_Emoji": [
-        {
-            "question": "Geef het juiste spreekwoord.",
-            "question_general": "Vertaal naar het Nederlands.",
-            "images": [ "assets/emoji-1.jpg" ],
-            "answer": "de kat uit de boom kijken"
-        },
-        {
-            "question": "Geef het juiste spreekwoord.",
-            "images": [ "assets/emoji-2.jpg" ],
-            "answer": "met veel vijven en zessen"
-        },
-        {
-            "question": "Geef het juiste spreekwoord.",
-            "images": [ "assets/emoji-3.jpg" ],
-            "answer": "drie man en een paardenkop"
-        },
-        {
-            "question": "Geef het juiste spreekwoord.",
-            "images": [ "assets/emoji-4.jpg" ],
-            "answer": "parels voor de zwijnen"
-        },
-        {
-            "question": "Geef het juiste spreekwoord.",
-            "images": [ "assets/emoji-5.jpg" ],
-            "answer": "alle wegen leiden naar Rome"
-        },
-        {
-            "question": "Geef het juiste spreekwoord.",
-            "images": [ "assets/emoji-6.jpg" ],
-            "answer": "wie zijn gat verbrandt moet op de blaren zitten"
-        },
-        {
-            "question": "Geef het juiste spreekwoord.",
-            "images": [ "assets/emoji-7.jpg" ],
-            "answer": "oost west, thuis best"
-        },
-        {
-            "question": "Geef het juiste spreekwoord.",
-            "images": [ "assets/emoji-8.jpg" ],
-            "answer": "van een kale reis terugkomen"
-        },
-        {
-            "question": "Geef het juiste spreekwoord.",
-            "images": [ "assets/emoji-9.jpg" ],
-            "answer": "het gras is altijd groener aan de andere kant"
-        },
-        {
-            "question": "Geef het juiste spreekwoord.",
-            "images": [ "assets/emoji-10.jpg" ],
-            "answer": "tijd vliegt"
-        }
-    ],
+
     "Break": [],
     "Cijfers en letters": [
         {
